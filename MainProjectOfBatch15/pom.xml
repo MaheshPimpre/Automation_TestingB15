@@ -3,4 +3,6 @@
   <groupId>com.batch15</groupId>
   <artifactId>MainProjectOfBatch15</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  </dependencies>
 </project>
